@@ -26,7 +26,7 @@ Statistical hypothesis testing (two-proportion Z-Test) was used to assess signif
 
 ---
 
-## 📚 Key Insights
+## Key Insights
 
 - No statistically significant difference was found between control and treatment groups based on conversion rates (p-value > 0.05).
 - Treatment group showed a slightly higher conversion rate, but it was not significant enough to reject the null hypothesis.
